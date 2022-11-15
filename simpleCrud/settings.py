@@ -89,7 +89,7 @@ DATABASES = {
     #     'ENGINE': 'django.db.backends.sqlite3',
     #     'NAME': BASE_DIR / 'db.sqlite3',
     # }
-    'default': dj_database_url.config(default='postgresql://postgres:postgres@localhost:5432/poetry-render-demo')
+    'default': dj_database_url.config(default='postgres://ksp:2PNkxqvC7rAMDNURxQhy3j7rqhcTond1@dpg-cdplophgp3jr9p55unu0-a/simpledb')
 
 }
 
